@@ -1,9 +1,9 @@
-## Hi there, I'm Ekaterina Utesheva👋
+## I'm Ekaterina Utesheva
 
-I'm fourth-year student at [CMC MSU](https://cs.msu.ru/en), department of Computing Systems and Automation.
+Graduated from [CMC MSU](https://cs.msu.ru/en), department of Computing Systems and Automation.
 
 **Interested in:**
-- Medical Informatics & Biomedicine
+- Medical Informatics
 - IoT (Internet of Things)
 - Embedded systems
 - Telegram Bot Development
