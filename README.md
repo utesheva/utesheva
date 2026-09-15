@@ -1,12 +1,14 @@
 ## I'm Ekaterina Utesheva
 
-Graduated from [CMC MSU](https://cs.msu.ru/en), department of Computing Systems and Automation.
+Graduated from the [CMC MSU](https://cs.msu.ru/en), department of Computing Systems and Automation.
 
 **Interested in:**
-- Medical Informatics
-- IoT (Internet of Things)
+- Digital Health
+- Cardiology
+- Biomedical signals processing
+- Wearable devices
+- Internet of Things
 - Embedded systems
-- Telegram Bot Development
 
 #### Languages:
 
