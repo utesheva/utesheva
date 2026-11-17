@@ -4,11 +4,10 @@ Graduated from the [CMC MSU](https://cs.msu.ru/en), department of Computing Syst
 
 **Interested in:**
 - Digital Health
-- Cardiology
-- Biomedical signals processing
 - Wearable devices
 - Internet of Things
 - Embedded systems
+- Signal processing
 
 #### Languages:
 
